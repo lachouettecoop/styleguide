@@ -1,6 +1,6 @@
 {
   "name": "chouette-styleguide",
-  "description": "",
+  "description": "Le guide de style de La Chouette Coop",
   "dependencies": {
     "catalog": "^3.6.0",
     "react": "^16.6.3",
