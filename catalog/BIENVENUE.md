@@ -1,12 +1,12 @@
-```image
-src: welcome.svg
-span: 2
-plain: true
-```
-
 Bonjour !
 
 Bienvenue sur le guide de style de [La Chouette Coop](https://www.lachouettecoop.fr).
+
+```image
+src: welcome.svg
+span: 3
+plain: true
+```
 
 Ceci est un outil spécifique à notre projet. Si vous recherchez des informations sur La Chouette Coop nous vous invitons à visiter [le site web de La Chouette Coop](https://www.lachouettecoop.fr).
 

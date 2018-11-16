@@ -4,7 +4,7 @@ Si vous avez de nouveaux besoins (ratios différents…), merci de contacter le 
 ## Logo principal
 
 ```image
-light: true
+dark: true
 span: 3
 src: Logo_LCC_2017_DEF_72DPI_WEB.jpg
 title: Classique
@@ -14,7 +14,7 @@ description: |
 ```
 
 ```image
-dark: true
+light: true
 span: 3
 src: Logo_LCC_2017_72DPI.jpg
 title: Variante

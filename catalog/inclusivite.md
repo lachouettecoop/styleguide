@@ -1,5 +1,11 @@
 La pensée s’élabore à travers la langue ; la langue construit la pensée. Le langage a donc un impact considérable sur les constructions mentales et les représentations sociales du sujet parlant.
 
+```image
+src: hang_out.svg
+span: 3
+plain: true
+```
+
 Pour cette raison, nous souhaitons privilégier une communication inclusive à la fois à l’écrit mais également à l’oral. Cette page reprend les différents principes à respecter, d’une manière synthétique.
 
 ```hint

@@ -1,5 +1,11 @@
 Cette page reprend les différents termes de vocabulaire ayant trait à notre projet de manière à ce que leur orthographe et sens soient bien compris. Elle reprend également les termes à éviter.
 
+```image
+src: book_lover.svg
+span: 3
+plain: true
+```
+
 Il est important que les communications utilisent un langage partagé de manière à faciliter la compréhension par tout un chacun.
 
 ```hint|directive

@@ -1,8 +1,12 @@
 Cette page reprend les différentes informations de typographie.
 
-## Police de caractère
+```image
+src: notebook.svg
+span: 2
+plain: true
+```
 
-### Titres et sous-titres
+## Titres et sous-titres
 
 **Montserrat** (sans-serif) — [_Voir sur Google Fonts_](https://fonts.google.com/specimen/Montserrat)
 
@@ -14,7 +18,7 @@ Cette page reprend les différentes informations de typographie.
 }
 ```
 
-### Texte
+## Texte
 
 **Cabin** (sans-serif) — [_Voir sur Google Fonts_](https://fonts.google.com/specimen/Cabin)
 

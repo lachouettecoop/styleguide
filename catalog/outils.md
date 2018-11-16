@@ -1,6 +1,12 @@
 Cette page reprend des documents pour communiquer sur le projet de La Chouette Coop.
 N’hésitez pas à imprimer et/ou partager ces documents pour faire connaître le projet.
 
+```image
+src: word_of_mouth.svg
+span: 3
+plain: true
+```
+
 ```hint
 Page dupliquée depuis l’espace membres : [https://espace-membres.lachouettecoop.fr/page/outilscom](https://espace-membres.lachouettecoop.fr/page/outilscom)
 **À discuter** de la meilleure place pour ce contenu

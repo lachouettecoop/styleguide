@@ -1,5 +1,11 @@
 Cette page reprend les différentes couleurs composant notre identité graphique.
 
+```image
+src: creativity.svg
+span: 3
+plain: true
+```
+
 ## Couleur principale
 
 ```color
