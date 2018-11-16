@@ -47,20 +47,172 @@ colors:
 
 ### Utilisation
 
-```hint
-**TODO :** Cette section n’est pas terminée
-```
+Chaque combinaison est associée de sa note d’accessibilité (ratio de contraste). Pour plus d’informations, voir le [WCAG 2.0](https://www.w3.org/TR/WCAG/#contrast-minimum).
 
 ```type|span-4,kern,smoothen,shorter
 {
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#f5eeae",
-    "color": "#333",
+    "color": "#445448",
     "font": "sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Passes Level **AAA** even for small text
+Ratio : [6.79](https://contrast-ratio.com/#%23445448-on-%23f5eeae)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#e6c56d",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [4.82](https://contrast-ratio.com/#%23445448-on-%23e6c56d)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#d8b881",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2
+Ratio : [4.25](https://contrast-ratio.com/#%23445448-on-%23d8b881)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#b88c56",
+    "color": "#ffffff",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2
+Ratio : [3.03](https://contrast-ratio.com/#%23ffffff-on-%23b88c56)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#ba7c40",
+    "color": "#ffffff",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2
+Ratio : [3.47](https://contrast-ratio.com/#%23ffffff-on-%23ba7c40)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#eee1e9",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [6.35](https://contrast-ratio.com/#%23445448-on-%23eee1e9)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#d3d8d3",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [5.57](https://contrast-ratio.com/#%23445448-on-%23d3d8d3)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#d7d8d9",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [5.64](https://contrast-ratio.com/#%23445448-on-%23d7d8d9)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#c0b9c0",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2
+Ratio : [4.19](https://contrast-ratio.com/#%23445448-on-%23c0b9c0)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#d7daba",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [5.6](https://contrast-ratio.com/#%23445448-on-%23d7daba)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#c0d29f",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [4.97](https://contrast-ratio.com/#%23445448-on-%23c0d29f)
+```
+
+```type|span-4,kern,smoothen,shorter
+{
+    "headings": [42],
+    "paragraphs": ["14/24"],
+    "background": "#b6cab6",
+    "color": "#445448",
+    "font": "sans-serif"
+}
+```
+
+```hint|span-2,directive
+Ratio : [4.64](https://contrast-ratio.com/#%23445448-on-%23b6cab6)
 ```
