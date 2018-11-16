@@ -5,12 +5,68 @@ import { Catalog, pageLoader } from "catalog";
 const pages = [
   {
     path: "/",
-    title: "Welcome",
-    content: pageLoader(() => import("./WELCOME.md"))
+    title: "Bienvenue",
+    content: pageLoader(() => import("./BIENVENUE.md"))
+  },
+  {
+    title: "Graphisme",
+    pages: [
+      {
+        path: "/logos",
+        title: "Logos",
+        content: pageLoader(() => import("./logos.md"))
+      },
+      {
+        path: "/couleurs",
+        title: "Couleurs",
+        content: pageLoader(() => import("./couleurs.md"))
+      },
+      {
+        path: "/typographie",
+        title: "Typographie",
+        content: pageLoader(() => import("./typographie.md"))
+      }
+    ]
+  },
+  {
+    title: "Contenu",
+    pages: [
+      {
+        path: "/vocabulaire",
+        title: "Le vocabulaire",
+        content: pageLoader(() => import("./vocabulaire.md"))
+      },
+      {
+        path: "/inclusivite",
+        title: "Inclusivité et bienveillance",
+        content: pageLoader(() => import("./inclusivite.md"))
+      }
+    ]
+  },
+  {
+    title: "Outils de communication",
+    path: "/outils",
+    content: pageLoader(() => import("./outils.md"))
   }
 ];
 
+const theme = {
+  linkColor: "#ba7c40",
+  lightColor: "#d7d8d9",
+  pageHeadingBackground: "#445448",
+  sidebarColorText: "#445448",
+  sidebarColorTextActive: "#ba7c40",
+  brandColor: "#445448",
+  navBarBackground: "#d7daba",
+  navBarTextColor: "#445448"
+};
+
 ReactDOM.render(
-  <Catalog title="Catalog" pages={pages} />,
+  <Catalog
+    title="Le Chouette Guide"
+    pages={pages}
+    logoSrc="Logo_LCC_2017_72DPI.jpg"
+    theme={theme}
+  />,
   document.getElementById("catalog")
 );
