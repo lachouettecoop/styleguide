@@ -58,7 +58,9 @@ const theme = {
   sidebarColorTextActive: "#ba7c40",
   brandColor: "#445448",
   navBarBackground: "#d7daba",
-  navBarTextColor: "#445448"
+  navBarTextColor: "#445448",
+  fontFamily: "'Cabin', sans-serif",
+  fontHeading: "'Montserrat', sans-serif"
 };
 
 ReactDOM.render(
@@ -67,6 +69,9 @@ ReactDOM.render(
     pages={pages}
     logoSrc="Logo_LCC_2017_72DPI.jpg"
     theme={theme}
+    styles={[
+      "https://fonts.googleapis.com/css?family=Cabin:400,400i,700,700i|Montserrat"
+    ]}
   />,
   document.getElementById("catalog")
 );

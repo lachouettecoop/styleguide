@@ -55,7 +55,7 @@ Chaque combinaison est associée de sa note d’accessibilité (ratio de contras
     "paragraphs": ["14/24"],
     "background": "#f5eeae",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -69,7 +69,7 @@ Ratio : [6.79](https://contrast-ratio.com/#%23445448-on-%23f5eeae)
     "paragraphs": ["14/24"],
     "background": "#e6c56d",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -83,7 +83,7 @@ Ratio : [4.82](https://contrast-ratio.com/#%23445448-on-%23e6c56d)
     "paragraphs": ["14/24"],
     "background": "#d8b881",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -97,7 +97,7 @@ Ratio : [4.25](https://contrast-ratio.com/#%23445448-on-%23d8b881)
     "paragraphs": ["14/24"],
     "background": "#b88c56",
     "color": "#ffffff",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -111,7 +111,7 @@ Ratio : [3.03](https://contrast-ratio.com/#%23ffffff-on-%23b88c56)
     "paragraphs": ["14/24"],
     "background": "#ba7c40",
     "color": "#ffffff",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -125,7 +125,7 @@ Ratio : [3.47](https://contrast-ratio.com/#%23ffffff-on-%23ba7c40)
     "paragraphs": ["14/24"],
     "background": "#eee1e9",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -139,7 +139,7 @@ Ratio : [6.35](https://contrast-ratio.com/#%23445448-on-%23eee1e9)
     "paragraphs": ["14/24"],
     "background": "#d3d8d3",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -153,7 +153,7 @@ Ratio : [5.57](https://contrast-ratio.com/#%23445448-on-%23d3d8d3)
     "paragraphs": ["14/24"],
     "background": "#d7d8d9",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -167,7 +167,7 @@ Ratio : [5.64](https://contrast-ratio.com/#%23445448-on-%23d7d8d9)
     "paragraphs": ["14/24"],
     "background": "#c0b9c0",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -181,7 +181,7 @@ Ratio : [4.19](https://contrast-ratio.com/#%23445448-on-%23c0b9c0)
     "paragraphs": ["14/24"],
     "background": "#d7daba",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -195,7 +195,7 @@ Ratio : [5.6](https://contrast-ratio.com/#%23445448-on-%23d7daba)
     "paragraphs": ["14/24"],
     "background": "#c0d29f",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
@@ -209,7 +209,7 @@ Ratio : [4.97](https://contrast-ratio.com/#%23445448-on-%23c0d29f)
     "paragraphs": ["14/24"],
     "background": "#b6cab6",
     "color": "#445448",
-    "font": "sans-serif"
+    "font": "'Cabin', sans-serif"
 }
 ```
 
