@@ -8,6 +8,12 @@ Le but est de recenser les éléments de l’identité graphique de La Chouette 
 
 Cela peut également être étendu au ton à donner et termes à employer, afin d’aider à la rédaction de contenu. Voir [le guide des styles de contenu de Mailchimp](https://styleguide.mailchimp.com/) pour inspiration ou https://consciousstyleguide.com/ pour exploration.
 
+## Présentation
+
+Une présentation de l’outil et de quelques cas d’usages potentiels :
+
+[![Vidéo de présentation du prototype de styleguide](https://img.youtube.com/vi/yrV8bTFX2-Y/0.jpg)](https://www.youtube.com/watch?v=yrV8bTFX2-Y)
+
 ## Installation en local
 
 - Cloner le dépôt
