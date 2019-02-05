@@ -1,6 +1,6 @@
 # Styleguide
 
-Ce dépôt contient un [styleguide (guide de style) vivant](https://la-cascade.io/creer-un-guide-de-style/) pour La Chouette Coop.
+Ce dépôt contient un [styleguide (guide de style) vivant](https://compassionate-meitner-7ec239.netlify.com/) pour La Chouette Coop [plus d'info](https://la-cascade.io/creer-un-guide-de-style/).
 
 ## But
 
