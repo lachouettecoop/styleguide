@@ -10,7 +10,7 @@ plain: true
 
 ```color
 span: 3
-name: "Pantone Solid Coated 7736 C"
+name: "primary — Pantone Solid Coated 7736 C"
 value: "#445448"
 ```
 
@@ -23,32 +23,53 @@ value: "#445448"
 
 ### Palette
 
-```hint
-**TODO** dans le but de faciliter la communication autour de ces couleurs (entre graphiste et développeurs par exemple !) il serait pertinent d’ajouter un nom pour chacune de ces couleurs.
+```color-palette
+colors:
+  - { name: "paleyellow — C0 M0 J40 N5 / R245 V238 B174", value: "#f5eeae"}
+  - { name: "darkyellow — C1 M21 J66 N5 / R230 V197 B109", value: "#e6c56d"}
+  - { name: "lightbrown — C8 M28 J54 N5 / R215 V183 B129", value: "#d8b881"}
+  - { name: "brown — C13 M43 J70 N14 / R184 V141 B85", value: "#b88c56"}
+  - { name: "darkbrown — C0 M51 J78 N20 / R186 V124 B64", value: "#ba7c40"}
 ```
 
 ```color-palette
 colors:
-  - { name: "C0 M0 J40 N5 / R245 V238 B174", value: "#f5eeae"}
-  - { name: "C1 M21 J66 N5 / R230 V197 B109", value: "#e6c56d"}
-  - { name: "C8 M28 J54 N5 / R215 V183 B129", value: "#d8b881"}
-  - { name: "C13 M43 J70 N14 / R184 V141 B85", value: "#b88c56"}
-  - { name: "C0 M51 J78 N20 / R186 V124 B64", value: "#ba7c40"}
+  - { name: "paleviolet — C0 M12 J0 N5 / R238 V225 B234", value: "#eee1e9"}
+  - { name: "greyblue — C8 M0 J7 N17 / R210 V215 B211", value: "#d3d8d3"}
+  - { name: "greyblue2 — C14 M10 J10 N5 / R216 V216 B217", value: "#d7d8d9"}
+  - { name: "violet — C24 M24 J17 N5 / R192 V185 B191", value: "#c0b9c0"}
 ```
 
 ```color-palette
 colors:
-  - { name: "C0 M12 J0 N5 / R238 V225 B234", value: "#eee1e9"}
-  - { name: "C8 M0 J7 N17 / R210 V215 B211", value: "#d3d8d3"}
-  - { name: "C14 M10 J10 N5 / R216 V216 B217", value: "#d7d8d9"}
-  - { name: "C24 M24 J17 N5 / R192 V185 B191", value: "#c0b9c0"}
+  - { name: "palegreen — C16 M6 J31 N5 / R215 V217 B185", value: "#d7daba"}
+  - { name: "lightgreen — C31 M0 J46 N5 / R191 V210 B158", value: "#c0d29f"}
+  - { name: "blue — C34 M6 J31 N5 / R183 V202 B182", value: "#b6cab6"}
 ```
+
+### Accents
+
+Voici également des couleurs plus dynamiques pour « accentuer » des parties d’interface.
+Cette palette est issue du site [clrs.cc](http://clrs.cc/).
 
 ```color-palette
 colors:
-  - { name: "C16 M6 J31 N5 / R215 V217 B185", value: "#d7daba"}
-  - { name: "C31 M0 J46 N5 / R191 V210 B158", value: "#c0d29f"}
-  - { name: "C34 M6 J31 N5 / R183 V202 B182", value: "#b6cab6"}
+  - { name: "navy", value: "#001f3f" }
+  - { name: "aqua", value: "#7FDBFF" }
+  - { name: "teal", value: "#39CCCC" }
+  - { name: "olive", value: "#3D9970" }
+  - { name: "green", value: "#2ECC40" }
+  - { name: "lime", value: "#01FF70" }
+  - { name: "yellow", value: "#FFDC00" }
+  - { name: "orange", value: "#FF851B" }
+  - { name: "red", value: "#FF4136" }
+  - { name: "maroon", value: "#85144b" }
+  - { name: "fuchsia", value: "#F012BE" }
+  - { name: "purple", value: "#B10DC9" }
+  - { name: "black", value: "#111111" }
+  - { name: "gray", value: "#AAAAAA" }
+  - { name: "silver", value: "#DDDDDD" }
+  - { name: "white", value: "#FFFFFF" }
 ```
 
 ### Utilisation
