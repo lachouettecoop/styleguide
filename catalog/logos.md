@@ -6,17 +6,16 @@ Si vous avez de nouveaux besoins (ratios différents…), merci de contacter le 
 ```image
 dark: true
 span: 3
-src: Logo_LCC_2017_DEF_72DPI_WEB.jpg
+src: logo.svg
 title: Classique
 description: |
-  Ceci est le logo par défaut à utiliser autant que
-  faire se peut.
+  Ceci est le logo par défaut à utiliser autant que faire se peut.
 ```
 
 ```image
 light: true
 span: 3
-src: Logo_LCC_2017_72DPI.jpg
+src: logo_white.svg
 title: Variante
 description: |
   Une variante du logo sur fond clair, à utiliser dans les environnements adaptés.
@@ -29,7 +28,7 @@ url: Logo_LCC_2017_DEF_72DPI_WEB.jpg
 ```
 
 ```download
-title: Logo sur fond clair (.jpg)
+title: Logo sur fond blanc (.jpg)
 span: 3
 url: Logo_LCC_2017_72DPI.jpg
 ```

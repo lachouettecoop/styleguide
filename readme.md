@@ -1,6 +1,8 @@
+[![Node.js CI](https://github.com/lachouettecoop/styleguide/actions/workflows/node.js.yml/badge.svg)](https://github.com/lachouettecoop/styleguide/actions/workflows/node.js.yml)
+
 # Styleguide
 
-Ce dépôt contient un [styleguide (guide de style) vivant](https://compassionate-meitner-7ec239.netlify.com/) pour La Chouette Coop [plus d'info](https://la-cascade.io/creer-un-guide-de-style/).
+Ce dépôt contient un [styleguide (guide de style) vivant](https://style.lachouettecoop.fr/) pour La Chouette Coop [plus d'info](https://la-cascade.io/creer-un-guide-de-style/).
 
 ## But
 
@@ -18,14 +20,14 @@ Une présentation de l’outil et de quelques cas d’usages potentiels :
 
 - Cloner le dépôt
 - `npm install`
-- `npm run catalog-start`
+- `npm start`
 
 ## Utilisation
 
-Le projet utilise un outil nommé « Catalog ». Pour plus de détails sur l’utilisation, veuillez vous référer à la [documentation de l’outil](https://docs.catalog.style/).
+Le projet utilise un outil nommé « Catalog ». Pour plus de détails sur l’utilisation, veuillez vous référer à la [documentation de l’outil](https://docs.catalog.style/).
 
 ## Déploiement
 
 Le projet est automatiquement déployé à chaque commit grâce à [Netlify](https://www.netlify.com/). Il n’y a donc rien à faire en théorie.
 
-Pour construire un artefact en local il est néanmoins possible d’utiliser : `npm run catalog-build`
+Pour construire un artefact en local il est néanmoins possible d’utiliser `npm run build`

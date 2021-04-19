@@ -1,13 +1,17 @@
 {
   "name": "chouette-styleguide",
   "description": "Le guide de style de La Chouette Coop",
+  "homepage": "https://style.lachouettecoop.fr",
   "dependencies": {
     "catalog": "^3.6.0",
+    "gh-pages": "^3.1.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
   "scripts": {
-    "catalog-start": "catalog start",
-    "catalog-build": "catalog build"
+    "start": "catalog start",
+    "build": "catalog build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d catalog/build"
   }
 }
