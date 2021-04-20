@@ -28,6 +28,6 @@ Le projet utilise un outil nommé « Catalog ». Pour plus de détails sur l�
 
 ## Déploiement
 
-Le projet est automatiquement déployé à chaque commit grâce à [Netlify](https://www.netlify.com/). Il n’y a donc rien à faire en théorie.
+Le projet est automatiquement déployé à chaque commit grâce à GitHub. Il n’y a donc rien à faire en théorie.
 
 Pour construire un artefact en local il est néanmoins possible d’utiliser `npm run build`
