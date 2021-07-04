@@ -10,8 +10,8 @@ plain: true
 
 ```color
 span: 3
-name: "primary — Pantone Solid Coated 7736 C"
-value: "#445448"
+name: "Pantone Solid Coated 7736 C"
+value: "#3A5447"
 ```
 
 ```hint|span-3
@@ -81,13 +81,13 @@ Chaque combinaison est associée de sa note d’accessibilité (ratio de contras
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#f5eeae",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [6.79](https://contrast-ratio.com/#%23445448-on-%23f5eeae)
+Ratio : [6.79](https://contrast-ratio.com/#%233A5447-on-%23f5eeae)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -95,13 +95,13 @@ Ratio : [6.79](https://contrast-ratio.com/#%23445448-on-%23f5eeae)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#e6c56d",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [4.82](https://contrast-ratio.com/#%23445448-on-%23e6c56d)
+Ratio : [4.82](https://contrast-ratio.com/#%233A5447-on-%23e6c56d)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -109,13 +109,13 @@ Ratio : [4.82](https://contrast-ratio.com/#%23445448-on-%23e6c56d)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#d8b881",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2
-Ratio : [4.25](https://contrast-ratio.com/#%23445448-on-%23d8b881)
+Ratio : [4.25](https://contrast-ratio.com/#%233A5447-on-%23d8b881)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -151,13 +151,13 @@ Ratio : [3.47](https://contrast-ratio.com/#%23ffffff-on-%23ba7c40)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#eee1e9",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [6.35](https://contrast-ratio.com/#%23445448-on-%23eee1e9)
+Ratio : [6.35](https://contrast-ratio.com/#%233A5447-on-%23eee1e9)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -165,13 +165,13 @@ Ratio : [6.35](https://contrast-ratio.com/#%23445448-on-%23eee1e9)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#d3d8d3",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [5.57](https://contrast-ratio.com/#%23445448-on-%23d3d8d3)
+Ratio : [5.57](https://contrast-ratio.com/#%233A5447-on-%23d3d8d3)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -179,13 +179,13 @@ Ratio : [5.57](https://contrast-ratio.com/#%23445448-on-%23d3d8d3)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#d7d8d9",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [5.64](https://contrast-ratio.com/#%23445448-on-%23d7d8d9)
+Ratio : [5.64](https://contrast-ratio.com/#%233A5447-on-%23d7d8d9)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -193,13 +193,13 @@ Ratio : [5.64](https://contrast-ratio.com/#%23445448-on-%23d7d8d9)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#c0b9c0",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2
-Ratio : [4.19](https://contrast-ratio.com/#%23445448-on-%23c0b9c0)
+Ratio : [4.19](https://contrast-ratio.com/#%233A5447-on-%23c0b9c0)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -207,13 +207,13 @@ Ratio : [4.19](https://contrast-ratio.com/#%23445448-on-%23c0b9c0)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#d7daba",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [5.6](https://contrast-ratio.com/#%23445448-on-%23d7daba)
+Ratio : [5.6](https://contrast-ratio.com/#%233A5447-on-%23d7daba)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -221,13 +221,13 @@ Ratio : [5.6](https://contrast-ratio.com/#%23445448-on-%23d7daba)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#c0d29f",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [4.97](https://contrast-ratio.com/#%23445448-on-%23c0d29f)
+Ratio : [4.97](https://contrast-ratio.com/#%233A5447-on-%23c0d29f)
 ```
 
 ```type|span-4,kern,smoothen,shorter
@@ -235,11 +235,11 @@ Ratio : [4.97](https://contrast-ratio.com/#%23445448-on-%23c0d29f)
     "headings": [42],
     "paragraphs": ["14/24"],
     "background": "#b6cab6",
-    "color": "#445448",
+    "color": "#3A5447",
     "font": "'Cabin', sans-serif"
 }
 ```
 
 ```hint|span-2,directive
-Ratio : [4.64](https://contrast-ratio.com/#%23445448-on-%23b6cab6)
+Ratio : [4.64](https://contrast-ratio.com/#%233A5447-on-%23b6cab6)
 ```

@@ -14,7 +14,7 @@ plain: true
 {
   "headings": [98,28,21,16,14,12],
   "font": "'Montserrat', sans-serif",
-  "color": "#445448"
+  "color": "#3A5447"
 }
 ```
 
@@ -26,6 +26,6 @@ plain: true
 {
   "paragraphs": ["18/28", "12/21"],
   "font": "'Cabin', sans-serif",
-  "color": "#445448"
+  "color": "#3A5447"
 }
 ```

@@ -53,12 +53,12 @@ const pages = [
 const theme = {
   linkColor: "#ba7c40",
   lightColor: "#d7d8d9",
-  pageHeadingBackground: "#445448",
-  sidebarColorText: "#445448",
+  pageHeadingBackground: "#3A5447",
+  sidebarColorText: "#3A5447",
   sidebarColorTextActive: "#ba7c40",
-  brandColor: "#445448",
+  brandColor: "#3A5447",
   navBarBackground: "#d7daba",
-  navBarTextColor: "#445448",
+  navBarTextColor: "#3A5447",
   fontFamily: "'Cabin', sans-serif",
   fontHeading: "'Montserrat', sans-serif"
 };
